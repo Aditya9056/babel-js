@@ -9,4 +9,5 @@ babel.transformSync("code", optionsObject)
 console.log("It's working!");
 
 hello = () => console.log('Hey how are you doing!');
-Promise.resolve().finally(); 
+
+Promise.resolve().finally();

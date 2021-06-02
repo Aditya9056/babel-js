@@ -14,6 +14,11 @@
                 "useBuiltIns": "usage",
                 "corejs": "3.6.5"
             }
+            
         ]
-    ]
+    ],
+    "compact": true,
+    "ignore": [],
+    "only": [],
+    "assumptions": {}
 }
