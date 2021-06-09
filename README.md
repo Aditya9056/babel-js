@@ -27,7 +27,7 @@ It uses AST to make it compiler work(that's a part of compiler design), but you 
 
 ## How to setup
 
-![https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)
+![setup-monkey](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)
 
 Make sure you have these
 
@@ -76,7 +76,7 @@ Voila! you've done it! there will be a `build` folder in your main directory tha
 
 ## It was just the Start
 
-![https://media.giphy.com/media/U3bL73bqnbMFFsy6tY/giphy.gif](https://media.giphy.com/media/U3bL73bqnbMFFsy6tY/giphy.gif)
+![just-getting-started](https://media.giphy.com/media/U3bL73bqnbMFFsy6tY/giphy.gif)
 
 Now, we'll understand how it all works. Let's start with
 
@@ -186,7 +186,7 @@ You can also write `babel.config.json` and `.babelrc.json` files using **JavaScr
 ### What are babel options?
 
 ![do-it-babel](https://media.giphy.com/media/3o84sw9CmwYpAnRRni/giphy.gif)
-<!-- ![Old-Code](https://media.giphy.com/media/eNGhpJxWu1C8FgF6Ty/giphy.gif) -->
+
 Babel options are a way to tell babel to do specific things e.g. minifying, ignoring some file, or explicitly tell babel to compile files from a specific directory while disabling everything else.
 
 Don't worry I'll explain everything I said above.
