@@ -17,8 +17,5 @@
             
         ]
     ],
-    "compact": true,
-    "ignore": [],
-    "only": [],
-    "assumptions": {}
+    "only": ["./src"]
 }
